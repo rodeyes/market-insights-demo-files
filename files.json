@@ -1,0 +1,19 @@
+{
+  "folder": "Market Insights Demo Files",
+  "notice": "All files and data are synthetic and intended exclusively for demonstration purposes.",
+  "files": [
+    {
+      "id": "market-001",
+      "name": "usdclp_market_summary_2026-06.xlsx",
+      "fileType": "xlsx",
+      "period": "2026-06",
+      "marketType": "USDCLP",
+      "modifiedDate": "2026-07-02",
+      "status": "Available",
+      "source": "Synthetic Market Data",
+      "observation": "Synthetic USD/CLP market summary for demonstration.",
+      "downloadUrl": "https://rodeyes.github.io/market-insights-demo-files/files/usdclp_market_summary_2026-06.xlsx",
+      "dataUrl": "https://rodeyes.github.io/market-insights-demo-files/data/market-001.json"
+    }
+  ]
+}
