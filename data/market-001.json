@@ -1,0 +1,125 @@
+{
+  "fileId": "market-001",
+  "fileName": "usdclp_market_summary_2026-06.xlsx",
+  "marketType": "USDCLP",
+  "period": "2026-06",
+  "currency": "CLP",
+  "recordCount": 5,
+  "records": [
+    {
+      "recordId": "MKT-001",
+      "date": "2026-06-02",
+      "marketType": "USDCLP",
+      "instrument": "USD/CLP",
+      "currency": "CLP",
+      "unit": "CLP per USD",
+      "open": 928.5,
+      "close": 934.2,
+      "high": 936.1,
+      "low": 927.8,
+      "absoluteChange": 5.7,
+      "percentageChange": 0.61,
+      "internationalFactors": [
+        "Synthetic strengthening of the US dollar"
+      ],
+      "localFactors": [
+        "Synthetic movement in copper prices"
+      ],
+      "source": "Synthetic Market Data",
+      "status": "Validated",
+      "observation": "Synthetic record for demonstration."
+    },
+    {
+      "recordId": "MKT-002",
+      "date": "2026-06-03",
+      "marketType": "USDCLP",
+      "instrument": "USD/CLP",
+      "currency": "CLP",
+      "unit": "CLP per USD",
+      "open": 934.2,
+      "close": 931.8,
+      "high": 935.5,
+      "low": 930.4,
+      "absoluteChange": -2.4,
+      "percentageChange": -0.26,
+      "internationalFactors": [
+        "Synthetic moderation of global dollar strength"
+      ],
+      "localFactors": [
+        "Synthetic improvement in copper prices"
+      ],
+      "source": "Synthetic Market Data",
+      "status": "Validated",
+      "observation": "Synthetic record for demonstration."
+    },
+    {
+      "recordId": "MKT-003",
+      "date": "2026-06-04",
+      "marketType": "USDCLP",
+      "instrument": "USD/CLP",
+      "currency": "CLP",
+      "unit": "CLP per USD",
+      "open": 931.8,
+      "close": 938.6,
+      "high": 940.2,
+      "low": 931.1,
+      "absoluteChange": 6.8,
+      "percentageChange": 0.73,
+      "internationalFactors": [
+        "Synthetic increase in international rate expectations"
+      ],
+      "localFactors": [
+        "Synthetic local market volatility"
+      ],
+      "source": "Synthetic Market Data",
+      "status": "Requires validation",
+      "observation": "Largest synthetic daily increase in the dataset."
+    },
+    {
+      "recordId": "MKT-004",
+      "date": "2026-06-05",
+      "marketType": "USDCLP",
+      "instrument": "USD/CLP",
+      "currency": "CLP",
+      "unit": "CLP per USD",
+      "open": 938.6,
+      "close": 936.4,
+      "high": 939.5,
+      "low": 934.9,
+      "absoluteChange": -2.2,
+      "percentageChange": -0.23,
+      "internationalFactors": [
+        "Synthetic decline in global risk aversion"
+      ],
+      "localFactors": [
+        "Synthetic recovery in local assets"
+      ],
+      "source": "Synthetic Market Data",
+      "status": "Validated",
+      "observation": "Synthetic record for demonstration."
+    },
+    {
+      "recordId": "MKT-005",
+      "date": "2026-06-06",
+      "marketType": "USDCLP",
+      "instrument": "USD/CLP",
+      "currency": "CLP",
+      "unit": "CLP per USD",
+      "open": 936.4,
+      "close": 941.3,
+      "high": 943.0,
+      "low": 935.8,
+      "absoluteChange": 4.9,
+      "percentageChange": 0.52,
+      "internationalFactors": [
+        "Synthetic increase in demand for US dollars"
+      ],
+      "localFactors": [
+        "Synthetic local macroeconomic uncertainty"
+      ],
+      "source": "Synthetic Market Data",
+      "status": "Requires validation",
+      "observation": "Synthetic record requiring professional review."
+    }
+  ]
+}
